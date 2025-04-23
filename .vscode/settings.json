@@ -1,0 +1,8 @@
+{
+    "python.analysis.extraPaths": [
+        "env/lib/python3.12/site-packages"
+    ],
+    "cSpell.words": [
+        "dotenv"
+    ]
+}
